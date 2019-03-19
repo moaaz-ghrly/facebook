@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html>
 <head>
@@ -7,7 +7,6 @@
 </head>
 <body> 
 
-<img id="banner" src="FACEBOOK.JPG" </img>
 <br> 
 <h1 id="title"> sign up </h1>
 <h1 style="background-color: violet;"></h1>
