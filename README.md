@@ -31,7 +31,7 @@ a:hover, a:active {
 	
 	
 	
-	<h2>my challenge link</h2>
+	
 <p>A link styled as a button:</p>
 <a href="https://www.freecodecamp.org/moaaz-ghrly" >my challenge link :) </a>
 <br>
