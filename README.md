@@ -6,6 +6,24 @@
 	
 	
 	<style>
+	a:link, a:visited {
+  background-color: #00FFFF;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: aqua;
+}
+	
+	
+	
+	
+	
+	
 a:link, a:visited {
   background-color: #f44336;
   color: white;
@@ -31,6 +49,9 @@ a:hover, a:active {
 	
 	
 	
+<h2>Link Button</h2>
+<p>A link styled as a button:</p>
+<a href="https://github.com/moaaz-ghrly/facebook">my github link :) </a>
 	
 
 <a href="https://www.freecodecamp.org/moaaz-ghrly" >my challenge link :) </a>
