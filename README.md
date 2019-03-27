@@ -30,14 +30,14 @@ a:hover, a:active {
 	
 	<h2>my challenge link</h2>
 <p>A link styled as a button:</p>
-<a href="https://www.freecodecamp.org/moaaz-ghrly" target="_blank">This is a link</a>
+<a href="https://www.freecodecamp.org/moaaz-ghrly" >my challenge link :) </a>
 
 	
 
 <p> iam 21 yeas old recently iam working as a barber and i am so interested to study coding . i always belive that if u like your work and what u r doing here where u will growup and develop your self to the highest level and thats why i want to join the course because its my chance to do what i like and i have passion to .. ( sorry i am writing very quiqley because i am so late i passed the time for submission) </p>
 <br>
 <br>
-<p> so this  is will b the link to my challenge : https://www.freecodecamp.org/moaaz-ghrly </p>
+
 <h1 id="title"> sign up </h1>
 <h1 style="background-color: violet;"></h1>
 <div class="login">
