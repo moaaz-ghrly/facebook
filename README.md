@@ -21,7 +21,7 @@ a:hover, a:active {
 	
 	
 	
-	
+	<a href="#" class="aqua" > Link2 </a>
 	
 	
 a:link, a:visited {
