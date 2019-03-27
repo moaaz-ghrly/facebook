@@ -33,7 +33,7 @@ a:hover, a:active {
 	
 	
 	
-<h2>Link Button</h2>
+<h1>Link Button</h1>
 
 <a href="https://github.com/moaaz-ghrly/facebook">my github link :) </a>
 	
