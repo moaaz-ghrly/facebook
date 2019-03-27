@@ -64,6 +64,7 @@ a:hover, a:active {
 			  <option value="others">others</option> 
 			</select>
 			<br>
+			<br>
 			<p> height: </p><br> 
 			<input type="radio" NAME="height"> tall <br>
 			<input type="radio" NAME="height"> short <br>
