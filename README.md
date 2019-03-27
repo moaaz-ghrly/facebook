@@ -53,7 +53,7 @@ a:hover, a:active {
 	<form action="" method="give">
 			
 			<lable> <h2>first name : </h2><input type="text" > <br> </lable> <br>
-			<lable> <h2>last name : </h2><input type="text" <br> </lable> <br>
+			<lable> <h2>last name : </h2><input type="text"> <br> </lable> <br>
 			  <br> <p> grnder :</p>
 			<select>
 			<option value= </option>
@@ -70,7 +70,7 @@ a:hover, a:active {
 			<p> tell us more what about u : </p>
 			<textarea rows="4" cols="50"> </textarea>
 			<br>
-			<br> </br>
+			
 			<input id="btn" type="submit">
 	</form>
 </div>
