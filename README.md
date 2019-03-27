@@ -43,7 +43,9 @@ a:hover, a:active {
 <br>
 	
 
-<p> iam 21 yeas old recently iam working as a barber and i am so interested to study coding . i always belive that if u like your work and what u r doing here where u will growup and develop your self to the highest level and thats why i want to join the course because its my chance to do what i like and i have passion to .. ( sorry i am writing very quiqley because i am so late i passed the time for submission) </p>
+<p> Hola it's Moaaz here :D i am from syria my age is 21 i lived in this beautiful country for 3 years i learned how to cut hair to survive me and my family so now u can say that i am a barber :) i wanted to continue my study in Damascus but i left to malaysia because of the was , and now i got this chance from u to bright my future for my life road ... why i would love to join the coding course because i am so interested to learn about it i like working on computure i am having passion to learn coding , i belive that if i do something that i dont like i will never make me step steps forward and its wasting time and energy ... so i beleive if u have passion to something give it energy and go forward ... "it's time to learn coding </p>
+	
+
 <br>
 <br>
 
