@@ -6,22 +6,6 @@
 	
 	
 	<style>
-	a:link, a:visited {
-  background-color: #00FFFF;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-
-a:hover, a:active {
-  background-color: aqua;
-}
-	
-	
-	
-	<a href="#" class="aqua" > Link2 </a>
 	
 	
 a:link, a:visited {
