@@ -47,14 +47,14 @@ a:hover, a:active {
 <br>
 <br>
 
-<h1 id="title"> sign up </h1>
+<h1 id="title"> sign up with me </h1>
 
 <div class="login">
 	<form action="" method="give">
 			
 			<lable> <h2>first name : </h2><input type="text" > <br> </lable> <br>
 			<lable> <h2>last name : </h2><input type="text"> <br> </lable> <br>
-			  <br> <p> grnder :</p>
+			  <br> <p> ginder :</p>
 			<select>
 			<option value= </option>
 			  <option value="male">male</option>
@@ -62,10 +62,10 @@ a:hover, a:active {
 			  <option value="others">others</option> 
 			</select>
 			<br>
-			<p> hieght : </p><br> 
-			<input type="radio" NAME="HIGH"> tall <br>
-			<input type="radio" NAME="HIGH"> short <br>
-			<input type="radio" NAME="HIGH">avarage <br>
+			<p> height: </p><br> 
+			<input type="radio" NAME="height"> tall <br>
+			<input type="radio" NAME="height"> short <br>
+			<input type="radio" NAME="height">avarage <br>
 			<br>
 			<p> tell us more what about u : </p>
 			<textarea rows="4" cols="50"> </textarea>
