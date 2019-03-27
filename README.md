@@ -48,7 +48,7 @@ a:hover, a:active {
 <br>
 
 <h1 id="title"> sign up </h1>
-<h1 style="background-color: violet;"></h1>
+
 <div class="login">
 	<form action="" method="give">
 			
